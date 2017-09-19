@@ -3,7 +3,7 @@
 int main()
 {
    printf("\n Teste");
-   printf("\n Segunda linha");
+   printf("\n Ssegunda linha");
 
    return 0;
 }
